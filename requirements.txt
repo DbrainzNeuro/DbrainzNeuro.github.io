@@ -1,5 +1,4 @@
 pandas
 matplotlib
 seaborn
-onedrivesdk
 ipython_blocking
