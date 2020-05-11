@@ -4,3 +4,4 @@ seaborn
 ipython_blocking
 dropbox
 PyQt5
+openpyxl
