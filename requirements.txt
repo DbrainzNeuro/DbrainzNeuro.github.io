@@ -1,5 +1,5 @@
 pandas
 matplotlib
-appjar
 seaborn
-dropbox
+onedrivesdk
+ipython_blocking
