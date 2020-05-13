@@ -4,3 +4,4 @@ seaborn
 openpyxl
 matplotlib_venn
 dropbox
+jupyter_contrib_nbextensions
