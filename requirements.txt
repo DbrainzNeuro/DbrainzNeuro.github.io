@@ -6,3 +6,4 @@ matplotlib_venn
 dropbox
 jupyter_contrib_nbextensions
 hide_code==0.5.2
+ipyevents
