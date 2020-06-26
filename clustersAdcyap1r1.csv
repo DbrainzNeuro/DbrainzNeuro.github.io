@@ -1,0 +1,117 @@
+Region,Class,Cluster,Adcyap1r1 Amount,Adcyap1r1 P-Val
+Globus Pallidus,Astrocyte,Astrocyte_Gja1 [#5],3.784189634,0
+Substantia Nigra,Astrocyte,Astrocyte_Gja1 [#7],3.610917913,0
+Entopeduncular,Astrocyte,Astrocyte_Gja1 [#7],3.496507561,2.96E-137
+Thalamus,Astrocyte,Astrocyte_Gja1 [#11],3.496507561,0
+Hippocampus,Polydendrocyte,Polydendrocyte_Tnr [#9],3.258096538,2.27E-92
+Posterior Cortex,Polydendrocyte,Polydendrocyte_Tnr [#10],3.218875825,2.25E-115
+Hippocampus,Astrocyte,Astrocyte_Gja1 [#7],3.218875825,0
+Entopeduncular,Polydendrocyte,Polydendrocyte_Cacng4 [#6],3.17805383,1.69E-23
+Striatum,Polydendrocyte,Polydendrocytes_Tnr [#5],3.135494216,3.08E-106
+Globus Pallidus,Polydendrocyte,Polydendrocyte_Tnr [#4],3.091042453,1.94E-12
+Cerebellum,Astrocyte,Astrocyte_Gja1 [#8],3.044522438,1.83E-34
+Posterior Cortex,Astrocyte,Astrocyte_Gja1 [#8],3.044522438,0
+Substantia Nigra,Polydendrocyte,Polydendrocyte_Cacng4 [#6],3.044522438,1.76E-14
+Frontal Cortex,Polydendrocyte,Polydendrocyte_Tnr [#10],2.995732274,9.99E-134
+Frontal Cortex,Astrocyte,Astrocyte_Gja1 [#8],2.890371758,0
+Frontal Cortex,Neuron,Interneuron_MGE_Sst-Pvalb [#2],2.833213344,0
+Posterior Cortex,Neuron,Interneuron_MGE_Sst-Pvalb [#5],2.833213344,1.32E-215
+Striatum,Astrocyte,Astrocyte_Gja1 [#4],2.833213344,0
+Cerebellum,Astrocyte,BergmannGlia_Gpr37l1 [#7],2.772588722,5.32E-172
+Hippocampus,Neuron,Interneuron_Gad2 [#1],2.772588722,8.41E-147
+Posterior Cortex,Neuron,Interneuron_CGE_Cplx3-Synpr [#4],2.708050201,1.58E-104
+Hippocampus,Neuron,Neuron_Dentate_C1ql2 [#4],2.708050201,0
+Frontal Cortex,Neuron,Interneuron_CGE_Cplx3-Synpr [#1],2.63905733,0
+Globus Pallidus,Neuron,Neuron_Chat [#1],2.63905733,0.000186558
+Globus Pallidus,Neuron,Neuron_Gabra1 [#2],2.63905733,1.29E-72
+Substantia Nigra,Neuron,Neuron_CA3_C1ql3 [#1],2.63905733,0.000255828
+Entopeduncular,Neuron,Neuron_Syt1 [#4],2.564949357,5.66E-179
+Substantia Nigra,Neuron,Neuron_Gad2 [#3],2.564949357,1.06E-235
+Striatum,Neuron,Interneuron_Pvalb_Th_Pnoc [#14],2.48490665,2.86E-130
+Substantia Nigra,Neuron,Neuron_Th [#4],2.48490665,9.15E-38
+Thalamus,Polydendrocyte,Polydendrocyte_Tnr [#12],2.48490665,2.94E-15
+Thalamus,Neuron,Neuron_Gad2-Ahi1 [#3],2.48490665,0
+Posterior Cortex,Neuron,RSG_Tshz2-Shisa8 [#6],2.397895273,4.64E-110
+Hippocampus,Neuron,Neuron_Subiculum_Slc17a6 [#2],2.397895273,1.16E-15
+Thalamus,Oligodendrocyte,Oligodendrocyte_Mbp [#9],2.197224577,2.78E-08
+Globus Pallidus,Neuron,Neuron_Ppp1r1b [#3],2.079441542,6.57E-44
+Hippocampus,Neuron,Neuron_Subiculum_Entorhinal_Nxph3 [#3],2.079441542,2.35E-07
+Striatum,Neuron,Interneuron_Chat [#12],2.079441542,2.38E-19
+Frontal Cortex,Neuron,Neuron_Layer5b_Fezf2 [#4],1.945910149,0.000347276
+Posterior Cortex,Neuron,Layer5b_Fezf2 [#7],1.945910149,0.822991469
+Entopeduncular,Oligodendrocyte,Oligodendrocyte_Mbp [#8],1.945910149,0.002106937
+Globus Pallidus,Ependyma,Ependyma [#6],1.945910149,0.003177362
+Hippocampus,Neuron,Neuron_CA1_Subiculum_Postsubiculum_Entorhinal_Fibcd1-Dcn-Cbln1-Ptgfr-Fezf2 [#5],1.945910149,8.71E-200
+Striatum,Neuron,Interneuron_Sst [#15],1.945910149,4.91E-12
+Substantia Nigra,Polydendrocyte,Polydendrocyte_Tnr [#5],1.945910149,2.15E-07
+Cerebellum,Microglia_Macrophage,Microglia_Macrophage_C1qb [#5],1.791759469,1
+Frontal Cortex,Neuron,Neuron_Claustrum_Nr4a2 [#5],1.791759469,0.025858411
+Posterior Cortex,Mural,Mural_Rgs5Acta2 [#13],1.791759469,0.03956773
+Posterior Cortex,Neuron,Neuron_Layer23_5_6_Subiculum_Calb1-Rorb-Fermt1-Tshz2-Oprk1-Crym-Sema3e [#2],1.791759469,4.16E-70
+Entopeduncular,Polydendrocyte,Polydendrocyte_Tnr [#5],1.791759469,0.120289349
+Globus Pallidus,Mural,Mural_Rgs5Acta2 [#8],1.791759469,9.97E-19
+Hippocampus,Neurogenesis,Neurogenesis_Sox4 [#13],1.791759469,9.12E-06
+Substantia Nigra,Oligodendrocyte,Oligodendrocyte_Mbp [#11],1.791759469,0.543580638
+Cerebellum,Fibroblast-Like,Fibroblast-Like_Dcn [#11],1.609437912,0.538491725
+Frontal Cortex,Neuron,Neuron_Layer23_Nptxr [#6],1.609437912,1.79E-43
+Hippocampus,Mural,Mural_Rgs5Acta2 [#16],1.609437912,6.03E-12
+Striatum,Mural,Mural_Rgs5Acta2 [#8],1.609437912,0.051484456
+Substantia Nigra,Microglia_Macrophage,Microglia_Macrophage_C1qb [#9],1.609437912,0.087705541
+Cerebellum,Oligodendrocyte_Polydendrocyte,Oligodendrocyte_Polydendrocyte_Tfr_Tnr [#6],1.386294361,0.003279812
+Frontal Cortex,Mural,Mural_Rgs5Acta2 [#13],1.386294361,0.000103022
+Entopeduncular,Mural_Fibroblast-Like,Mural_Fibroblast-Like_Rgs5Acta2-Dcn [#3],1.386294361,0.103598603
+Striatum,Neurogenesis,Neurogenesis_Sox4 [#2],1.386294361,0.678238264
+Thalamus,Neuron,Neuron_Rora [#2],1.386294361,3.49E-05
+Cerebellum,Neuron,GranularNeuron_Gabra6 [#1],1.098612289,1.39E-85
+Cerebellum,Neuron,Interneurons_and_Other_Nnat [#4],1.098612289,0.188691928
+Frontal Cortex,Microglia_Macrophage,Microglia_Macrophage_C1qb [#11],1.098612289,1.33E-07
+Frontal Cortex,Fibroblast-Like,Fibroblast-Like_Dcn [#14],1.098612289,3.58E-05
+Posterior Cortex,Neuron,Neuron_Layer6Subplate_Syt6 [#1],1.098612289,1.01E-158
+Posterior Cortex,Microglia_Macrophage,Microglia_Macrophage_Tmem119-Mrc1 [#11],1.098612289,0.000184615
+Posterior Cortex,Oligodendrocyte,Oligodendrocyte_Tfr [#9],1.098612289,2.58E-44
+Globus Pallidus,Oligodendrocyte,Oligodendrocyte_Tfr [#10],1.098612289,0
+Globus Pallidus,Microglia_Macrophage,Microglia_Macrophage_C1qb [#11],1.098612289,2.40E-10
+Globus Pallidus,Fibroblast-Like,Fibroblast-Like_Dcn [#9],1.098612289,7.08E-12
+Hippocampus,Microglia_Macrophage,Microglia_Macrophage_C1qb [#10],1.098612289,4.76E-11
+Hippocampus,Neuron,Neuron_CajalRetzius_Lhx1 [#14],1.098612289,6.54E-10
+Hippocampus,Oligodendrocyte,Oligodendrocyte_Tfr [#8],1.098612289,9.88E-95
+Striatum,Neuron,Neuron_dSPN_Drd1 [#10],1.098612289,5.27E-124
+Striatum,Neuron,Neuron_iSPN_Adora2a [#11],1.098612289,6.90E-53
+Striatum,Neuron,Neuron_SPN_BNST_Amygdala_Otof [#13],1.098612289,1.02E-05
+Striatum,Microglia_Macrophage,Microglia_Macrophage_C1qb [#6],1.098612289,0.233164473
+Substantia Nigra,Mural,Mural_Rgs5Acta2 [#13],1.098612289,2.24E-16
+Substantia Nigra,Neuron,Neuron_Rora [#2],1.098612289,0.000233008
+Thalamus,Mural,Mural_Rgs5Acta2 [#5],1.098612289,0.002780277
+Thalamus,Fibroblast-Like,Fibroblast-Like_Dcn [#6],1.098612289,0.047194554
+Thalamus,Microglia_Macrophage,Microglia_Macrophage_C1qb [#7],1.098612289,0.490750708
+Cerebellum,Neuron,Interneurons_Pvalb [#3],0.693147181,4.04E-10
+Frontal Cortex,Endothelial,Endothelial_Flt1 [#12],0.693147181,3.46E-69
+Frontal Cortex,Neuron,Neuron_Layer6Subplate_Syt6 [#3],0.693147181,6.70E-249
+Frontal Cortex,Neuron,Neuron_Layer5_Parm1 [#7],0.693147181,4.22E-140
+Frontal Cortex,Oligodendrocyte,Oligodendrocyte_Tfr [#9],0.693147181,1.28E-78
+Posterior Cortex,Endothelial,Endothelial_Flt1 [#12],0.693147181,3.48E-47
+Posterior Cortex,Fibroblast-Like,Fibroblast-Like_Dcn [#14],0.693147181,1.88E-10
+Posterior Cortex,Neuron,Neuron_Layer5_Bcl6 [#3],0.693147181,3.23E-126
+Entopeduncular,Oligodendrocyte,Oligodendrocyte_Tfr [#1],0.693147181,5.50E-262
+Entopeduncular,Endothelial,Endothelial_Flt1 [#2],0.693147181,2.45E-26
+Globus Pallidus,Endothelial,Endothelial_Flt1 [#7],0.693147181,2.02E-157
+Hippocampus,Ependyma,Ependyma [#11],0.693147181,6.75E-30
+Hippocampus,Endothelial,Endothelial_Flt1 [#15],0.693147181,4.84E-88
+Hippocampus,Fibroblast-Like,Fibroblast-Like_Dcn [#17],0.693147181,4.94E-12
+Hippocampus,Neuron,Neuron_CA2CA3_Pvrl3-Rgs15-Calb2 [#6],0.693147181,0
+Striatum,Ependyma,Ependyma [#1],0.693147181,0.006005827
+Striatum,Oligodendrocyte,Oligodendrocytes_Tfr [#3],0.693147181,3.11E-20
+Striatum,Endothelial,Endothelial_Flt1 [#7],0.693147181,2.17E-07
+Striatum,Fibroblast-Like,Fibroblast-Like_Dcn [#9],0.693147181,0.236264094
+Substantia Nigra,Oligodendrocyte,Oligodendrocyte_Tfr [#10],0.693147181,0
+Substantia Nigra,Endothelial,Endothelial_Flt1 [#12],0.693147181,2.79E-94
+Thalamus,Neuron,Neuron_Habenula_Tac2 [#1],0.693147181,1.52E-11
+Thalamus,Ependyma,Ependyma [#10],0.693147181,5.35E-08
+Thalamus,Endothelial,Endothelial_Flt1 [#4],0.693147181,6.71E-80
+Thalamus,Oligodendrocyte,Oligodendrocyte_Tfr [#8],0.693147181,7.02E-281
+Cerebellum,Endothelial,Endothelial_Flt1 [#10],0,2.83E-06
+Cerebellum,Neuron,PurkinjeNeuron_Pcp2 [#2],0,5.30E-11
+Cerebellum,Choroid_Plexus,Choroid_Plexus_Ttr [#9],0,0.00384464
+Hippocampus,Choroid_Plexus,Choroid_Plexus_Ttr [#12],0,6.58E-08
+Substantia Nigra,Fibroblast-Like,Fibroblast-Like_Dcn [#14],0,6.61E-09
+Substantia Nigra,Ependyma,Ependyma [#8],0,0.060194142
